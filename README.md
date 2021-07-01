@@ -1,2 +1,1 @@
-# TINDOG
-WELCOME TO TINDOG SOCIETY
+TinDog Starting Files
